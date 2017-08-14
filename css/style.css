@@ -1,0 +1,43 @@
+body {
+  background:#efefef;
+  font-family:sans-serif;
+}
+
+#container {
+  width:75%;
+  margin: 100px auto;
+  clear:both;
+}
+
+#col1 {
+  width:30%;
+  float:left;
+}
+
+#col1 img {
+  width:90%;
+}
+
+#col1 p {
+  width:80%;
+  background-color:pink;
+  padding: 5%;
+}
+
+#col1 a {
+    color:purple;
+    font-weight:bold;
+    text-transform:uppercase;
+    text-decoration:none;
+}
+
+#col2 {
+  width:60%;
+  float:left;
+}
+
+.bloque {
+  background:white;
+  padding: 5%;
+  margin-bottom:10px;
+}
